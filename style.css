@@ -2,3 +2,21 @@
     color: black;
 }
 
+.color{
+    border: black solid 1px;
+    display: inline-block;
+}
+
+#black{
+    background-color: black;
+    
+}
+#blue{
+    background-color: blue;
+}
+#yellow{
+    background-color: yellow;
+}
+#oragen{
+    background-color: orange;
+}
