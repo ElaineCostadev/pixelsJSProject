@@ -2,21 +2,59 @@
     color: black;
 }
 
+#color-palette{ 
+    display: inline;
+    height: 10px;       /* altura */
+    width: 50px;        /* largura */
+    
+}
+
 .color{
     border: black solid 1px;
-    display: inline-block;
+    width: 100px;
+    display: inline;
 }
 
 #black{
     background-color: black;
-    
+    display: inline;
+    padding: 10px;
+    width: 35px;
+  
 }
 #blue{
     background-color: blue;
+    display: inline;
+    padding: 10px;
+    width: 35px;
+    
 }
 #yellow{
     background-color: yellow;
+    display: inline;
+    padding: 10px;
+    width: 35px;
+    
+
 }
-#oragen{
+#orange{
     background-color: orange;
+    display: inline;
+    padding: 10px;
+    width: 35px;
+    
+}
+
+#pixel-board{
+    width: 250px;
+    height: 250px;
+    margin-top: 30px;
+}
+
+.pixel{
+    border: black solid 1px;
+    width: 40px;
+    height: 40px;
+    background-color: white;
+    display: inline-block;
 }
