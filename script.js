@@ -33,7 +33,7 @@ mudarCorPixelBoard();
 
 
 
-
+//ajuda do Kaio Magalhaes
  function clearAllPixels (){
 
        btnClear.addEventListener("click", function(){ 
