@@ -59,6 +59,7 @@
     background-color: white;
     display: inline-block;
 }
+
 .selected{
-    
+    border: aqua solid 3px;
 }
