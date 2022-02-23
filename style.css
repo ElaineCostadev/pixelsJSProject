@@ -61,5 +61,10 @@
 }
 
 .selected{
-    border: aqua solid 3px;
+    
+}
+#clear-board{
+    width: 250px;
+    display:block;
+    margin-block-end: 20px;
 }
