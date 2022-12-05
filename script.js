@@ -13,9 +13,7 @@ function selectedClass (event){
       classSelected.classList.remove("selected");
       event.target.classList.add("selected"); 
    };
-
 //mentorias e https://developer.mozilla.org/en-US/docs/Web/API/Window/getComputedStyle
-
 
 function mudarCorPixelBoard (){
    
@@ -44,52 +42,4 @@ mudarCorPixelBoard();
       });
    }
    clearAllPixels();
-            
-
-          
-  
-
-        
-       /*    */
-       
          /* let btnLimpar = document.querySelector("#clear-board"); */
-
-
-
-
-
-
- 
-
-
-
-
-  
-
-
-
-    
-
-
-
-
-    
-        
-  
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
